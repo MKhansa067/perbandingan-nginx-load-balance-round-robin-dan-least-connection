@@ -1,4 +1,4 @@
-//skenario delay 2 detik
+# skenario delay 2 detik
 from flask import Flask
 import time
 
