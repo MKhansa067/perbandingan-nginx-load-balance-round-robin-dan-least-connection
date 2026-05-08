@@ -4,8 +4,8 @@ app = Flask(__name__)
 @app.route('/')
 def home():
 
-    print("REQUEST MASUK KE APP2")
+    print("REQUEST MASUK KE APP1")
 
-    return "Response from APP 2"
+    return "Response from APP 1"
 
 app.run(host='0.0.0.0', port=5000)
