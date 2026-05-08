@@ -497,10 +497,15 @@ docker compose down
 
 # Teknologi yang Digunakan
 
-- Docker
-- NGINX
-- Python Flask
-- ApacheBench(ab)
+# Teknologi yang Digunakan
+
+| Teknologi | Fungsi |
+|---|---|
+| NGINX | Load Balancer |
+| Docker | Virtualisasi berbasis container |
+| Python Flask | Backend web service |
+| ApacheBench (ab) | Benchmark dan performance testing |
+| Docker Compose | Orkestrasi multi-container |
 
 ---
 
