@@ -497,10 +497,10 @@ docker compose down
 
 # Teknologi yang Digunakan
 
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+- Docker
+- NGINX
 - Python Flask
-- :contentReference[oaicite:5]{index=5}
+- ApacheBench(ab)
 
 ---
 
