@@ -1,12 +1,12 @@
 # Evaluasi Perbandingan nginx load balancer menggunakan Algoritma Round Robin dan Least Connection  
 
-Proyek ini bertujuan untuk membandingkan performa algoritma load balancing pada :contentReference[oaicite:0]{index=0} menggunakan lingkungan virtual berbasis :contentReference[oaicite:1]{index=1}.
+Proyek ini bertujuan untuk membandingkan performa algoritma load balancing menggunakan lingkungan virtual berbasis Docker.
 
 Algoritma yang dibandingkan:
 - Round Robin
 - Least Connection
 
-Pengujian dilakukan menggunakan beberapa skenario beban dan benchmark menggunakan :contentReference[oaicite:2]{index=2}.
+Pengujian dilakukan menggunakan beberapa skenario beban dan benchmark menggunakan Ubuntu.  
 
 ---
 
