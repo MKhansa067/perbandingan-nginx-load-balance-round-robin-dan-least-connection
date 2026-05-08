@@ -1,4 +1,4 @@
-# Evaluasi perbandingan-nginx-load-balance-round-robin-dan-least-connection  
+# Evaluasi Perbandingan nginx load balancer menggunakan Algoritma Round Robin dan Least Connection  
 
 Proyek ini bertujuan untuk membandingkan performa algoritma load balancing pada :contentReference[oaicite:0]{index=0} menggunakan lingkungan virtual berbasis :contentReference[oaicite:1]{index=1}.
 
